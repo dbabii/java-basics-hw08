@@ -11,6 +11,8 @@ public class RegExp {
      */
     public static String getIpAddress(String text) {
         // TODO fill in code here for extracting IP address using Regular Expression
+        String str = text;
+
         return "";
     }
 }
